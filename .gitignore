@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore data files
+odfs/
+temp_archive.rar
+

@@ -1,0 +1,144 @@
+VARIABLE_NUEVA	VARIABLE_ORIGINAL	DESCRIPCION
+year	AGNO	Año escolar
+id	ID	Identificador único
+dep	COD_DEPE2	Dependencia administrativa
+est	ESTRATO_ANALITICO	Estrato analítico
+rural	RURAL_RBD	Indicador de ruralidad
+gen	Q001	Género del estudiante
+esc01	Q004SQ001	Interés del equipo directivo en opinión de estudiantes
+esc02	Q004SQ002	Participación estudiantil en espacios con profesores/directivos
+pns01	Q005SQ001	Ideas novedosas para resolver problemas
+pns02	Q005SQ002	Persistencia ante dificultades
+pns03	Q005SQ003	Valoración de ideas de compañeros
+pns04	Q005SQ004	Aprendizaje de errores
+cls01	Q006SQ001	Tiempo pasando materia sin participación
+cls02	Q006SQ002	Apoyo de profesores
+cls03	Q006SQ003	Diversidad de métodos de enseñanza
+cls04	Q006SQ004	Aprendizaje de creatividad
+cls05	Q006SQ005	Aprendizaje de pensamiento crítico
+cls06	Q006SQ006	Aprendizaje de expresión de ideas
+cls07	Q006SQ007	Aprendizaje de trabajo en equipo
+fac01	Q007SQ001	Frecuencia de trabajo en equipo
+fac02	Q007SQ002	Frecuencia de trabajos de investigación
+fac03	Q007SQ003	Frecuencia de debates
+fac04	Q007SQ004	Frecuencia de fabricación de maquetas/prototipos
+fac05	Q007SQ005	Frecuencia de resolución de problemas reales
+pro01	Q008SQ001	Profesores acogen sugerencias
+pro02	Q008SQ002	Profesores incorporan temas de interés
+pro03	Q008SQ003	Proyectos interdisciplinarios
+eqh01	Q009SQ001	Uso de computador de escritorio
+eqh02	Q009SQ002	Uso de notebook
+eqh03	Q009SQ003	Uso de tablet
+eqh04	Q009SQ004	Conexión fija a internet
+eqh05	Q009SQ005	Uso de teléfono celular
+eqh06	Q009SQ006	Uso de consola de videojuegos
+edpc	Q010	Edad inicio uso computadores/tablets
+celdat	Q011P001	Tiene internet en celular
+edcel	Q011P002	Edad primer celular con internet
+cel01	Q011P003SQ001	Uso de celular en clases para fines recreativos
+cel02	Q011P003SQ002	Uso de celular en clases para actividades educativas
+cel03	Q011P003SQ003	Uso de celular para registro de clase
+net01	Q012SQ001	Frecuencia uso internet en casa
+net02	Q012SQ002	Frecuencia uso internet en casa de amigos/familiares
+net03	Q012SQ003	Frecuencia uso internet en escuela/liceo
+net04	Q012SQ004	Frecuencia uso internet en centro público
+net05	Q012SQ005	Frecuencia uso internet en vía pública
+web01	Q013SQ001	Frecuencia uso redes sociales
+web02	Q013SQ002	Frecuencia llamadas/videoconferencias
+web03	Q013SQ003	Frecuencia ver videos tutoriales
+web04	Q013SQ004	Frecuencia búsqueda de información
+web05	Q013SQ005	Frecuencia estudio/tareas con internet
+web06	Q013SQ006	Frecuencia coordinación tareas con compañeros
+web07	Q013SQ007	Frecuencia participación en grupos de opinión
+ese01	Q014SQ001	Frecuencia búsqueda/selección información
+ese02	Q014SQ002	Frecuencia uso Word/Excel/PowerPoint
+ese03	Q014SQ004	Frecuencia uso aplicaciones educativas
+ese04	Q014SQ005	Frecuencia pruebas/quizzes digitales
+asg01	Q015SQ001	Frecuencia uso dispositivos en Lenguaje
+asg02	Q015SQ002	Frecuencia uso dispositivos en Matemática
+asg03	Q015SQ003	Frecuencia uso dispositivos en Ciencias
+asg04	Q015SQ009	Frecuencia uso dispositivos en Historia
+asg05	Q015SQ005	Frecuencia uso dispositivos en Inglés
+asg06	Q015SQ006	Frecuencia uso dispositivos en Tecnología
+asg07	Q015SQ007	Frecuencia uso dispositivos en Artes/Música
+asg08	Q015SQ010	Frecuencia uso dispositivos en Ed. Física
+for01	Q016SQ001	Formación en procesadores de texto/planillas
+for02	Q016SQ002	Formación en uso de internet
+for03	Q016SQ003	Formación en uso de correo electrónico
+for04	Q016SQ004	Formación en herramientas colaboración
+tec01	Q017P001SQ001	Participación en talleres de programación
+tec02	Q017P001SQ002	Participación en talleres de robótica
+tec03	Q017P001SQ003	Participación con realidad aumentada
+tec04	Q017P001SQ004	Uso de IA (ChatGPT, etc.)
+tec05	Q017P001SQ005	Uso de impresoras 3D
+prg01	Q017P002SQ001	Uso de Scratch
+prg02	Q017P002SQ002	Uso de Code Studio
+prg03	Q017P002SQ003	Uso de La Hora del Código
+prg04	Q017P002SQ004	Uso de App Inventor
+prg05	Q017P002SQ005	Uso de Snap
+prg06	Q017P002SQ006	Uso de Python
+prg07	Q017P002SQ007	Uso de JavaScript
+prg08	Q017P002SQ008	Uso de CSS
+prg09	Q017P002SQ009	Uso de HTML
+prg10	Q017P002SQ010	Uso de C o C++
+cib01	Q018SQ001	Compartir fotos/memes para ridiculizar
+cib02	Q018SQ002	Mensajes ofensivos en redes sociales
+cib03	Q018SQ003	Mensajes ofensivos por correo/chat
+cib04	Q018SQ004	Copiar trabajos desde internet
+cib05	Q018SQ005	Uso de celular para copiar en pruebas
+cib06	Q018SQ006	Amenazas a través de internet
+ciu01	Q019SQ001	Formación en administración datos/privacidad
+ciu02	Q019SQ002	Formación en ciberbullying/convivencia
+ciu03	Q019SQ003	Formación en uso responsable de información
+ciu04	Q019SQ004	Formación en identificar fake news
+hab01	Q020SQ001	Habilidad para crear/editar documentos
+hab02	Q020SQ002	Habilidad para enviar archivos por correo
+hab03	Q020SQ003	Habilidad para crear planillas con fórmulas
+hab04	Q020SQ004	Habilidad para crear presentaciones
+hab05	Q020SQ005	Habilidad para crear/editar videos
+hab06	Q020SQ006	Habilidad para subir contenido a sitios
+hab07	Q020SQ007	Habilidad para buscar información escolar
+hab08	Q020SQ008	Habilidad para evaluar confiabilidad información
+hab09	Q020SQ009	Habilidad para editar documentos compartidos
+hab10	Q020SQ010	Habilidad para coordinar trabajos online
+hab11	Q020SQ011	Habilidad para programar
+att01	Q021SQ001	Búsqueda de nuevos usos de PC/internet
+att02	Q021SQ002	Autoaprendizaje en computación
+att03	Q021SQ003	Preferencia por tareas en computador
+att04	Q021SQ004	Mayor aprendizaje con tecnologías
+att05	Q021SQ005	Búsqueda de nuevos programas/apps
+att06	Q021SQ006	Autopercepción como solucionador problemas técnicos
+att07	Q021SQ007	Percepción conocimiento estudiantes vs profesores
+int01	Q022SQ001	Interés en ilustración digital/fotografía
+int02	Q022SQ002	Interés en producción audiovisual
+int03	Q022SQ003	Interés en animación/videojuegos
+int04	Q022SQ004	Interés en diseño web
+int05	Q022SQ005	Interés en producción musical digital
+int06	Q022SQ006	Interés en robótica
+int07	Q022SQ007	Interés en análisis científico
+int08	Q022SQ008	Interés en astronomía/astrofísica
+int09	Q022SQ009	Interés en inteligencia artificial
+val01	Q023SQ001	Tecnología ayuda a aprender más
+val02	Q023SQ002	Tecnología ayuda a mejorar notas
+val03	Q023SQ003	Redes sociales no distraen de tareas
+val04	Q023SQ004	Tecnología mejora trabajo con compañeros
+val05	Q023SQ005	Tareas más entretenidas con dispositivos
+val06	Q023SQ006	Tecnología motiva aprendizaje
+val07	Q023SQ007	Tecnología útil para futuro laboral
+val08	Q023SQ008	Tecnología facilita entender contenido
+wgt	WGT_EST_FINAL	Factor de expansión
+ift	IND_ACCNES_FORM_TD	Indicador formación en tecnologías digitales
+ifc	IND_FREC_FORM_CD	Indicador frecuencia formación ciudadanía digital
+ifa	IND_FREC_ACTS_TD	Indicador frecuencia actividades tecnológicas
+ifui	IND_FREC_USO_INT	Indicador frecuencia uso internet escolar
+ifud	IND_FREC_USO_DD	Indicador frecuencia uso dispositivos en asignaturas
+ihd1	IND_AUTP_HAB_DIG1	Indicador autopercepción habilidades digitales generales
+ihd2	IND_AUTP_HAB_DIG2	Indicador autopercepción habilidades digitales avanzadas
+imt1	IND_NIVEL_MOT_TIC1	Indicador motivación TIC (creación contenido)
+imt2	IND_NIVEL_MOT_TIC2	Indicador motivación TIC (aplicaciones científicas)
+ivte	IND_VAL_TD_EST	Indicador valoración tecnologías digitales
+iafp	IND_AUTP_FORM_PENSAR	Indicador autopercepción forma de pensar
+ippe	IND_PERC_PROT_EST	Indicador percepción protagonismo estudiantes
+ifaa	IND_FREC_APR_ACT	Indicador frecuencia aprendizaje activo
+iaac	IND_AUTP_APR_CLASES	Indicador autopercepción aprendizaje en clases
+ipitd	IND_PERC_IMP_TD	Indicador percepción impacto tecnologías digitales
